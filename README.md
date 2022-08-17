@@ -3,6 +3,7 @@
 <br/>
 
  <h3 align="left">About me ?</h3>
+ 
 - 🔭 I’m currently working on [Rennes Reel Twitter Bot](https://twitter.com/ReelRennes)
 
 - 🌱 I’m currently learning **Scala & Spark**
